@@ -1,0 +1,16 @@
+ /*CSS reset settings here*/
+	#center-box{
+	 display: flex;
+	 align-items: center;
+	}
+ 
+	.content{
+	 display: flex;
+	 flex-wrap: nowrap;
+	 align-items: center;
+	 justify-content: flex-start;
+	}
+	
+	ul li{
+		display: inline;
+	}
